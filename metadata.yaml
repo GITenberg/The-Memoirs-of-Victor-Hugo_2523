@@ -1,0 +1,29 @@
+_repo: The-Memoirs-of-Victor-Hugo_2523
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+description: ''
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2523'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, French -- 19th century -- Biography'
+- !lcc 'CT'
+- !lcsh 'Autobiographies'
+- !lcc 'PQ'
+- !lcsh 'Hugo, Victor, 1802-1885'
+- GITenberg
+title: The Memoirs of Victor Hugo
+url: http://www.gutenberg.org/ebooks/2523
